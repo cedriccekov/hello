@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello git master
+=======
+hello git thus
+>>>>>>> f4bdef2ab822209f052476b944eb575f9e9d67bc
